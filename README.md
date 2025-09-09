@@ -9,7 +9,12 @@ Java, Selenium, Cucumber e Rest-Assured
 
 para rodar basta dar o comando: mvn clear test
 
-No arquivo
+O arquivo com as evidência da execução dos testes automatizados com sucesso chama-se bandicam 2025-09-09 06-30-40-902.MP4
+
+Estou a disposição para qualquer dúvida.
+
+
+
 
 
 
